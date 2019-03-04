@@ -7,29 +7,8 @@ class FakeProjectDependency
     "Hello I am a_wild_method_appeared"
   end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  def self.nathans_method
-    "hello from nathan"
+  def self.test
+    "test test test is this on?"
   end
+
 end
