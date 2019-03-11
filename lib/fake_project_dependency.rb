@@ -7,6 +7,9 @@ class FakeProjectDependency
     "Hello I am a_wild_method_appeared"
   end
 
+  def self.nathans_method_two
+    "Adds a method"
+  end
 
 
 
