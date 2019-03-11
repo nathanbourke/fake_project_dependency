@@ -1,4 +1,6 @@
 class FakeProjectDependency
+  SUP_DAWG = "Sup dawg".freeze
+
   def self.hello
     "Hello, you called? I am 'hello' from the FakeProjectDependency, a land afar"
   end
@@ -13,5 +15,9 @@ class FakeProjectDependency
 
   def self.test_method
     "HELLO TEST METHOD"
+  end
+
+  def self.sup_dawg
+    SUP_DAWG
   end
 end
