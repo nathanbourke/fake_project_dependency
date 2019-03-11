@@ -11,28 +11,11 @@ class FakeProjectDependency
     "Adds a method"
   end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   def self.nathans_method
     "hello from nathan"
+  end
+
+  def self.test_method
+    "HELLO TEST METHOD"
   end
 end
