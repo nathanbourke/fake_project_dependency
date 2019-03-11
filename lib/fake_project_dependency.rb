@@ -14,4 +14,8 @@ class FakeProjectDependency
   def self.test_method
     "HELLO TEST METHOD"
   end
+
+  def self.poorly_named_method
+    "I am a well named method"
+  end
 end

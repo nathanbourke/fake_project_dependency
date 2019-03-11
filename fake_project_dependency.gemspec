@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'fake_project_dependency'
-  s.version     = '0.0.0'
+  s.version     = '0.0.88'
   s.date        = '2010-04-28'
   s.summary     = "wompwomp"
   s.description = "A simple hello world gem"
