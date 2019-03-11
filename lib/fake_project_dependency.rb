@@ -14,4 +14,9 @@ class FakeProjectDependency
   def self.test_method
     "HELLO TEST METHOD"
   end
+
+  def self.mac_method
+    puts "This is mac's method"
+  end
+  
 end
