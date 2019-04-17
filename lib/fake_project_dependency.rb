@@ -18,4 +18,8 @@ class FakeProjectDependency
   def self.test_method
     "HELLO TEST METHOD"
   end
+
+  def self.lynnes_method
+    "hello from Lynne!"
+  end
 end
